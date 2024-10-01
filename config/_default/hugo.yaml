@@ -1,0 +1,18 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: 'https://raulhr16.github.io/prueba' 
+title: 'Rauli'
+theme: "qubt"
+
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'es'
+
+
